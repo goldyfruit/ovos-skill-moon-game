@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.0.3a2](https://github.com/TigreGotico/ovos-skill-moon-game/tree/0.0.3a2) (2025-12-19)
+
+[Full Changelog](https://github.com/TigreGotico/ovos-skill-moon-game/compare/0.0.3a1...0.0.3a2)
+
+**Merged pull requests:**
+
+- chore\(deps\): update pilosus/action-pip-license-checker action to v0.9.0 [\#6](https://github.com/TigreGotico/ovos-skill-moon-game/pull/6) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update dependency python to 3.14 [\#5](https://github.com/TigreGotico/ovos-skill-moon-game/pull/5) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [0.0.3a1](https://github.com/TigreGotico/ovos-skill-moon-game/tree/0.0.3a1) (2025-12-19)
 
 [Full Changelog](https://github.com/TigreGotico/ovos-skill-moon-game/compare/0.0.2...0.0.3a1)
