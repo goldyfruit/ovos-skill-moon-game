@@ -1,12 +1,12 @@
 # Changelog
 
-## [0.0.2a1](https://github.com/TigreGotico/ovos-skill-moon-game/tree/0.0.2a1) (2024-12-18)
+## [0.0.3a1](https://github.com/TigreGotico/ovos-skill-moon-game/tree/0.0.3a1) (2025-12-19)
 
-[Full Changelog](https://github.com/TigreGotico/ovos-skill-moon-game/compare/0.0.1...0.0.2a1)
+[Full Changelog](https://github.com/TigreGotico/ovos-skill-moon-game/compare/0.0.2...0.0.3a1)
 
 **Merged pull requests:**
 
-- fix: requirements.txt min ovos-workshop version [\#1](https://github.com/TigreGotico/ovos-skill-moon-game/pull/1) ([JarbasAl](https://github.com/JarbasAl))
+- chore: Configure Renovate [\#3](https://github.com/TigreGotico/ovos-skill-moon-game/pull/3) ([renovate[bot]](https://github.com/apps/renovate))
 
 
 
